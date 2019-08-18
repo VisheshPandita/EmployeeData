@@ -6,3 +6,10 @@ This is a web app based on Django Structure, The main app for saving app data li
 
 ## Made from VisheshPandita (me), for Vkarma Edutech Private Limited
 as part of Inetrnship test.
+
+
+# Requirments
+python 3.x
+Django 2.x
+mysqlclient    // PIP pacakge 
+phone_field    // PIP pacakge
