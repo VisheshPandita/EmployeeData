@@ -17,3 +17,5 @@ Django 2.x
 mysqlclient    // PIP pacakge 
 
 phone_field    // PIP pacakge
+
+## Change DataBase config in settings.py according to your system cofig.
