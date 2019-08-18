@@ -9,7 +9,11 @@ as part of Inetrnship test.
 
 
 # Requirments
+
 python 3.x
+
 Django 2.x
+
 mysqlclient    // PIP pacakge 
+
 phone_field    // PIP pacakge
